@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Лозовский Филипп Home work № 4
 namespace Home_work_4
 {
     #region (Class Massive and options)
