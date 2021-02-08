@@ -2,6 +2,7 @@
 
 namespace Home_work_4
 {
+    #region (Class Massive and options)
     class Array20
     {
         int[] a;
@@ -68,6 +69,7 @@ namespace Home_work_4
         }
 
     }
+    #endregion
     class Program
     {
 
